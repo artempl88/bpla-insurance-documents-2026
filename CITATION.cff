@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Если используете набор, укажите проект «Дом.Риск» и страницу исследования."
+title: "Публичные документы страховщиков о риске БПЛА — 2026"
+type: dataset
+authors:
+  - name: "Дом.Риск"
+version: "2026.08.20"
+date-released: 2026-08-20
+url: "https://strahovka-ot-bpla.ru/data/bpla-insurance-coverage-2026/"
+license: CC-BY-4.0
