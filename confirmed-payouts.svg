@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Три подтвержденные страховые выплаты после событий с БПЛА</title>
+  <desc id="desc">По официальным сообщениям страховщиков: более 350 тысяч рублей за квартиру в Новомосковске, 128,6 тысячи рублей за ипотечную квартиру в Краснодаре и 1,5 миллиона рублей за частный дом в Брянской области. Совокупная названная сумма превышает 1 978 600 рублей.</desc>
+  <rect width="1200" height="630" rx="40" fill="#f7f8f4"/>
+  <rect x="48" y="48" width="1104" height="534" rx="30" fill="#ffffff" stroke="#d9e2dc" stroke-width="2"/>
+
+  <text x="88" y="112" fill="#123f38" font-family="Arial, sans-serif" font-size="40" font-weight="700">Три подтвержденные выплаты</text>
+  <text x="88" y="154" fill="#51635f" font-family="Arial, sans-serif" font-size="23">После событий с БПЛА · по официальным сообщениям страховщиков</text>
+
+  <text x="88" y="222" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">Квартира</text>
+  <text x="88" y="250" fill="#51635f" font-family="Arial, sans-serif" font-size="17">Новомосковск · Росгосстрах · 15.07.2026</text>
+  <rect x="460" y="205" width="570" height="38" rx="19" fill="#e8efeb"/>
+  <rect x="460" y="205" width="133" height="38" rx="19" fill="#2d8167"/>
+  <text x="1054" y="233" text-anchor="end" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">&gt;350 000 ₽</text>
+
+  <text x="88" y="324" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">Ипотечная квартира</text>
+  <text x="88" y="352" fill="#51635f" font-family="Arial, sans-serif" font-size="17">Краснодар · ПАРИ · 23.05.2026</text>
+  <rect x="460" y="307" width="570" height="38" rx="19" fill="#e8efeb"/>
+  <rect x="460" y="307" width="49" height="38" rx="19" fill="#54a68c"/>
+  <text x="1054" y="335" text-anchor="end" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">128 600 ₽</text>
+
+  <text x="88" y="426" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">Частный дом</text>
+  <text x="88" y="454" fill="#51635f" font-family="Arial, sans-serif" font-size="17">Брянская область · Росгосстрах · 25.07.2025</text>
+  <rect x="460" y="409" width="570" height="38" rx="19" fill="#e8efeb"/>
+  <rect x="460" y="409" width="570" height="38" rx="19" fill="#1c604f"/>
+  <text x="1010" y="437" text-anchor="end" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">1 500 000 ₽</text>
+
+  <rect x="88" y="486" width="964" height="50" rx="16" fill="#edf5f1"/>
+  <text x="112" y="519" fill="#123f38" font-family="Arial, sans-serif" font-size="24" font-weight="700">Названная сумма: более 1 978 600 ₽</text>
+  <text x="88" y="562" fill="#51635f" font-family="Arial, sans-serif" font-size="17">Не средняя по рынку, не статистика всех случаев и не гарантия выплаты по другому договору.</text>
+  <text x="1054" y="562" text-anchor="end" fill="#123f38" font-family="Arial, sans-serif" font-size="19" font-weight="700">strahovka-ot-bpla.ru</text>
+</svg>
