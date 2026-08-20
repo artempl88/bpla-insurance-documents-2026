@@ -1,0 +1,61 @@
+{
+  "profile": "tabular-data-package",
+  "name": "bpla-insurance-coverage-russia-2026",
+  "title": "Публичные документы страховщиков о риске БПЛА — 2026",
+  "description": "Матрица публичных правил, КИД, образцов полисов, официальных страниц и сообщений российских страховщиков по рискам падения БПЛА.",
+  "version": "2026.08.20",
+  "created": "2026-07-30",
+  "updated": "2026-08-20",
+  "homepage": "https://strahovka-ot-bpla.ru/data/bpla-insurance-coverage-2026/",
+  "documentation": "media-brief.md",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Дом.Риск",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "страхование",
+    "БПЛА",
+    "квартира",
+    "недвижимость",
+    "страховой полис",
+    "страховые документы"
+  ],
+  "resources": [
+    {
+      "name": "bpla-coverage-matrix",
+      "path": "bpla-coverage-matrix.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "bpla-payout-evidence",
+      "path": "bpla-payout-evidence.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "confirmed-payouts-chart",
+      "path": "confirmed-payouts.svg",
+      "format": "svg",
+      "mediatype": "image/svg+xml",
+      "description": "Диаграмма трех официально подтвержденных выплат. Не является рыночной статистикой или прогнозом выплаты."
+    },
+    {
+      "name": "confirmed-payouts-chart-png",
+      "path": "confirmed-payouts.png",
+      "format": "png",
+      "mediatype": "image/png",
+      "description": "Растровая версия диаграммы 1200 × 630 для редакционных CMS."
+    }
+  ]
+}
